@@ -16,13 +16,13 @@ export const invitation = {
     name: "Dinesh",
     relation: "SON OF",
     parents: "Jayavel and Kumutha",
-    image: "groom-dinesh.png",
+    image: "groom-dinesh.png.jpeg",
   },
   bride: {
     name: "Kowsalya",
     relation: "DAUGHTER OF",
     parents: "Thanigasalam and Sumathi",
-    image: "bride-kowsalya.png",
+    image: "bride-kowsalya.png.jpeg",
   },
   events: [
     { title: "Reception", date: "December 12, 2026", time: "6:00 PM", venue: "Vijaya Mahal AC and Rooms, Mangalam, Tirukazhukundram, Tamil Nadu", mapUrl: "https://www.google.com/maps/search/?api=1&query=Vijaya%20Mahal%20AC%20and%20Rooms%2C%20Mangalam%2C%20Tirukazhukundram%2C%20Tamil%20Nadu", image: "nadaswaram.png" },
